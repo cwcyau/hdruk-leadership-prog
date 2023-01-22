@@ -1,4 +1,4 @@
-# Understanding stakeholders and effective communication
+# Understanding needs and evidence
 
 In Year 2 you will begin to develop your leadership capabilities in a variety of ways. This project will underpin those efforts and give you a chance to practically apply those skills.
  
