@@ -50,15 +50,12 @@ For your PhD research you are creating models that can predict mRNA structures f
 
 ## References
 
-(Medical devices: software applications (apps))[https://www.gov.uk/government/publications/medical-devices-software-applications-apps]
+[Medical devices: software applications (apps)](https://www.gov.uk/government/publications/medical-devices-software-applications-apps)
 
+[Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.gov.uk/government/publications/good-machine-learning-practice-for-medical-device-development-guiding-principles
+)
 
-
-Good Machine Learning Practice for Medical Device Development: Guiding Principles
-
-https://www.gov.uk/government/publications/good-machine-learning-practice-for-medical-device-development-guiding-principles
-
-https://www.nice.org.uk/about/what-we-do/our-programmes/evidence-standards-framework-for-digital-health-technologies
+[Evidence standards framework (ESF) for digital health technologies](https://www.nice.org.uk/about/what-we-do/our-programmes/evidence-standards-framework-for-digital-health-technologies)
 
 
 
