@@ -1,5 +1,7 @@
 # Health Data Research UK Leadership Programme
 
-[Needs & Evidence](evidence.md)
+The HDRUK Leadership Programme consists of a series of components designed to provide students with an introduction to a variety of leadership skills and capabilities.
 
-[Bringing medical devices to market](medical-devices.md)
+In Year Two, students will undertake a [Needs & Evidence](evidence.md) course which will examine the role of identifying needs, acquiring evidence, and working with stakeholders. 
+
+In Year Three, students will begin to consider the wider context of their research and its potential translational application through course on [Bringing medical devices to market](medical-devices.md).
