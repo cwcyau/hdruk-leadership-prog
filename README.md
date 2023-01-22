@@ -57,6 +57,6 @@ For your PhD research you are creating models that can predict mRNA structures f
 
 [Evidence standards framework (ESF) for digital health technologies](https://www.nice.org.uk/about/what-we-do/our-programmes/evidence-standards-framework-for-digital-health-technologies)
 
-
+[An academic’s guide to medtech translation](https://www.imbe.leeds.ac.uk/wp-content/uploads/sites/54/academicsguidetomedtechtranslation/index.html#/)
 
 
