@@ -2,7 +2,7 @@
 
 ## Registration
 
-https://www.hdruk.ac.uk/events/bringing-medical-devices-to-market-webinar-series/
+Students should register for the upcoming workshops: https://www.hdruk.ac.uk/events/bringing-medical-devices-to-market-webinar-series/
 
 ## Purpose
 
