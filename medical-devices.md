@@ -18,7 +18,7 @@ Computer algorithms and software designed for medical use are classified as medi
 
 ## Group Project
  
-You will work in self-selected groups of 3-4 to consider the implications of each of the four core topics in the context of your own research.
+You will work in self-selected groups of 3-4 to consider the implications of each of the four core topics in the context of your own research. Please could nominated group leads send us a list of group members by e-mail to [phd@hdruk.ac.uk] by **28 February 2023**.
 
 ### Intellectual Property 
 
@@ -35,6 +35,22 @@ How might your research be used at-scale? Who will be the users? What would be t
 ### Clinical evidence for software devices 
 
 What type of evidence would be required to support medical devices that might arise from your research? Who might need to be involved in providing that evidence? What would you measure to demonstrate effectiveness?
+
+## Report
+
+You will produce a short-written report (no more than 4 pages) which describes your discussions. 
+
+Reports should contain:
+
+1.	A description of the research you are undertaking,
+2.	The possible translational applications and the types of medical devices that might arise from your research,
+3.	The intellectual property considerations,
+4.	The end-user groups and the economic considerations for possible solutions,
+5.	The evidence that maybe required to push forward these technologies.
+
+We will organise an in-person event during the summer (dates: tbc) for all groups to present their findings. This will be embedded within a wider PhD programme event.
+
+Reports are due **31 May 2023** and should be submitted to [phd@hdruk.ac.uk].
 
 ## Things to consider
 
