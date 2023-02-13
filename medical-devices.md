@@ -77,4 +77,5 @@ For your PhD research you are creating models that can predict mRNA structures f
 
 [An academic’s guide to medtech translation](https://www.imbe.leeds.ac.uk/wp-content/uploads/sites/54/academicsguidetomedtechtranslation/index.html#/)
 
+[Digital Technology Assessment Criteria (DTAC)](https://transform.england.nhs.uk/key-tools-and-info/digital-technology-assessment-criteria-dtac/)
 
