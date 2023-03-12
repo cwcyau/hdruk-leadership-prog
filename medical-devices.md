@@ -66,7 +66,27 @@ Your PhD research is concerned with examining a large population of individuals 
 
 For your PhD research you are creating models that can predict mRNA structures from sequences. The output of your PhD will be academic publications that describe the methodology and analysis of structural predictions. You will be releasing open-source software which you expect to be used for molecule design by biotechnology companies for personalised mRNA-based therapies. Software essential to personalised therapeutics could be considered as in-vitro diagnostic devices.
 
+## Workshop Thoughts
+
+### Intellectual Property
+
+Thoughts arising:
+
+- What are the assets generated as a result of your research?
+
+- Who owns your research outputs?
+
+- What is the nature of your collaborations? 
+
+- What research agreements do you utilise?
+
+- Has anyone patented research related to yours or tools/methods that you use?
+
+- Recognise risks — how does IP protection fit in the timeline of your research?
+
 ## References
+
+[Understanding regulations of AI and digital technology in health and social care](https://www.digitalregulations.innovation.nhs.uk/)
 
 [Medical devices: software applications (apps)](https://www.gov.uk/government/publications/medical-devices-software-applications-apps)
 
