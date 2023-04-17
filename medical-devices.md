@@ -6,6 +6,12 @@ Students should register for the upcoming workshops.
 
 URL: https://www.hdruk.ac.uk/events/bringing-medical-devices-to-market-webinar-series/
 
+## Recordings
+
+All session recordings, including bite-sized summary videos, are now available from Youtube.
+
+URL: https://www.youtube.com/@HDRUK/videos
+
 ## Purpose
 
 1.	To gain an understanding of the process of bringing medical devices to market.
