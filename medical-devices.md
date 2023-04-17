@@ -38,6 +38,8 @@ What type of evidence would be required to support medical devices that might ar
 
 ## Report
 
+### Overview
+
 You will produce a short-written report (no more than 4 pages) which describes your discussions. 
 
 Reports should contain:
@@ -50,9 +52,41 @@ Reports should contain:
 
 We will organise an in-person event during the summer (dates: tbc) for all groups to present their findings. This will be embedded within a wider PhD programme event.
 
-Reports are due **31 May 2023** and should be submitted to [phd@hdruk.ac.uk].
+Reports are due **15 June 2023** and should be submitted to [phd@hdruk.ac.uk].
 
-## Things to consider
+### Further guidance
+
+The purpose of this exercise is to describe how a piece of research that you are conducting could be the deployed as a medical device or to catalyst the production of medical devices. We will focus on "Software as a Medical Device" for this exercise. 
+
+Reports should be approximately four A4 pages in length. The given word counts are for guidance. Only a single report is required per group but individual responses should be given to question six (as an Appendix).
+
+You should structure your reports around the following five questions:
+
+1. Concisely describe the scientific background of the research that might lead to the production of the medical device. [200 words]
+
+2. Describe what medical device could arise as a direct or indirect result of this research. What problem does it solve? Describe how it might be used in practice? [400 words]
+
+3. Sketch an outline of an "intended use" statement for this medical device. [150 words]
+
+4. What evidence would need to be provided to demonstrate that the medical device conveys clinical benefit? Outline how this evidence would need to be collected. [250 words]
+
+5. What are the safety considerations that need to be considered before the deployment and use of the medical device? What might need to happen after its deployment? [250 words]
+
+6. Describe something you learnt about the development and deploying medical devices. What aspect of the process is more challenging than you envisaged? What are the prospects for deployment of medical devices arising from research in your area? [up to 250 words] Each member of the group should provide a response to this individally and add to the report as an Appendix.
+
+### Mentoring support
+
+We have arranged for each group to have a 30-minute mentoring session with Peter Bannister about your projects.
+
+It is recommended that to make effective use of that time you do the following:
+
+1. Provide a draft of any writing you have done,
+2. Prepare a short 5-minute overview slide (or two) about your project objectives,
+3. Come prepared with no more than 3-4 specific questions to be asked.
+
+It is helpful to send Peter any prepared writing and questions a few days in advance of your meeting.
+
+### Things to consider
 
 As a group, you can decide to focus on the research of just one member of the group, or examine the shared interests of the groups or to look at differences between h.
 
@@ -65,24 +99,6 @@ Your PhD research is concerned with examining a large population of individuals 
 *Example 2: Biological analysis*
 
 For your PhD research you are creating models that can predict mRNA structures from sequences. The output of your PhD will be academic publications that describe the methodology and analysis of structural predictions. You will be releasing open-source software which you expect to be used for molecule design by biotechnology companies for personalised mRNA-based therapies. Software essential to personalised therapeutics could be considered as in-vitro diagnostic devices.
-
-## Workshop Thoughts
-
-### Intellectual Property
-
-Thoughts arising:
-
-- What are the assets generated as a result of your research?
-
-- Who owns your research outputs?
-
-- What is the nature of your collaborations? 
-
-- What research agreements do you utilise?
-
-- Has anyone patented research related to yours or tools/methods that you use?
-
-- Recognise risks — how does IP protection fit in the timeline of your research?
 
 ## References
 
@@ -99,3 +115,4 @@ Thoughts arising:
 
 [Digital Technology Assessment Criteria (DTAC)](https://transform.england.nhs.uk/key-tools-and-info/digital-technology-assessment-criteria-dtac/)
 
+[How to get ChatGPT regulatory approved as a medical device](https://www.hardianhealth.com/blog/how-to-get-regulatory-approval-for-medical-large-language-models)
